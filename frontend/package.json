@@ -17,7 +17,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "proxy": "https://gentle-plateau-53901.herokuapp.com"
   },
   "eslintConfig": {
     "extends": [
@@ -37,4 +38,5 @@
       "last 1 safari version"
     ]
   }
+  
 }
