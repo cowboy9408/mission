@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "노드의 기초",
+    "author": "김병준",
+    "description": "노드의 기초를 배워보자!",
+    "quantity": 5,
+    "image": "http://localhost:3000/uploads/94e30372097f6d3f4570346fca80d41c"
+  },
+  {
+    "id": 2,
+    "title": "리액트의 심화",
+    "author": "문병준",
+    "description": "리액트를 좀 더 깊게 파헤쳐보자!",
+    "quantity": 4,
+    "image": "http://localhost:3000/uploads/076eb9485bd895931a4e6b8685e481be"
+  },
+  {
+    "id": 3,
+    "title": "리액트",
+    "author": "김병준",
+    "description": "리액트를 알아보자!",
+    "quantity": 3,
+    "image": "http://localhost:3000/uploads/076eb9485bd895931a4e6b8685e481be"
+  },
+  {
+    "id": 4,
+    "title": "노드의 심화",
+    "author": "김병준",
+    "description": "노드를 좀 더 깊게 파헤쳐보자!",
+    "quantity": 1,
+    "image": "http://localhost:3000/uploads/076eb9485bd895931a4e6b8685e481be"
+  },
+  {
+    "id": 5,
+    "title": "자바의 심화",
+    "author": "김병준",
+    "description": "자바를 좀 더 깊게 파헤쳐보자!",
+    "quantity": 6,
+    "image": "http://localhost:3000/uploads/076eb9485bd895931a4e6b8685e481be"
+  },
+  {
+    "id": 6,
+    "title": "스프링의 심화",
+    "author": "김병준",
+    "description": "스프링을 좀 더 깊게 파헤쳐보자!",
+    "quantity": 4,
+    "image": "http://localhost:3000/uploads/076eb9485bd895931a4e6b8685e481be"
+  },
+  {
+    "id": 7,
+    "title": "UI/UX의 심화",
+    "author": "김병준",
+    "description": "UI/UX 를 좀 더 깊게 파헤쳐보자!",
+    "quantity": 4,
+    "image": "http://localhost:3000/uploads/076eb9485bd895931a4e6b8685e481be"
+  },
+  {
+    "id": 8,
+    "title": "디자인의 심화",
+    "author": "김병준",
+    "description": "디자인을 좀 더 깊게 파헤쳐보자!",
+    "quantity": 4,
+    "image": "http://localhost:3000/uploads/076eb9485bd895931a4e6b8685e481be"
+  },
+  {
+    "id": 9,
+    "title": "데이터의 심화",
+    "author": "김병준",
+    "description": "데이터를 좀 더 깊게 파헤쳐보자!",
+    "quantity": 4,
+    "image": "http://localhost:3000/uploads/076eb9485bd895931a4e6b8685e481be"
+  },
+  {
+    "id": 10,
+    "title": "익스프레스의 심화",
+    "author": "김병준",
+    "description": "익스프레스를 좀 더 깊게 파헤쳐보자!",
+    "quantity": 4,
+    "image": "/uploads/076eb9485bd895931a4e6b8685e481be"
+  },
+  {
+    "id": 11,
+    "title": "컴포넌트의 심화",
+    "author": "이병준",
+    "description": "컴포넌트를 좀 더 깊게 파헤쳐보자!",
+    "quantity": 4,
+    "image": "/uploads/076eb9485bd895931a4e6b8685e481be"
+  },
+  {
+    "id": 12,
+    "title": "훅의 심화",
+    "author": "박병준",
+    "description": "훅을 좀 더 깊게 파헤쳐보자!",
+    "quantity": 4,
+    "image": "http://localhost:3000/uploads/076eb9485bd895931a4e6b8685e481be"
+  },
+  {
+    "id": 13,
+    "title": "스타일의 심화",
+    "author": "송병준",
+    "description": "스타일을 좀 더 깊게 파헤쳐보자!",
+    "quantity": 4,
+    "image": "http://localhost:3000/uploads/076eb9485bd895931a4e6b8685e481be"
+  },
+  {
+    "id": 15,
+    "title": "adsasd",
+    "author": "준병박",
+    "description": "진짜 모르겠다!",
+    "quantity": 7,
+    "image": "http://localhost:3000/uploads/ef2a593517333464c39da58deebf1f9d"
+  },
+  {
+    "id": 16,
+    "title": "카카카카카",
+    "author": "정병준",
+    "description": "테스트 책 목록",
+    "quantity": 5,
+    "image": "http://localhost:3000/uploads/acf8d89ce52adeab8b2bc0b663749bbe"
+  }
+]
